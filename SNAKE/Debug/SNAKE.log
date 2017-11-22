@@ -1,0 +1,15 @@
+﻿Сборка начата 16.12.2015 22:37:36.
+     1>Проект "C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\SNAKE\SNAKE.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Snakecpp.cpp
+         Snakecpp.cpp
+     1>c:\users\сергей\desktop\курсач\snake\snake\snakecpp.cpp(200): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>c:\users\сергей\desktop\курсач\snake\snake\snakecpp.cpp(207): warning C4305: аргумент: усечение из "double" к "GLclampf"
+       Link:
+         E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\Debug\SNAKE.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\Debug\SNAKE.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\Debug\SNAKE.lib" /MACHINE:X86 Debug\Snakecpp.obj
+         SNAKE.vcxproj -> C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\Debug\SNAKE.exe
+     1>Сборка проекта "C:\Users\Сергей\Desktop\КУРСАЧ\SNAKE\SNAKE\SNAKE.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.17
